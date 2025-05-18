@@ -2,7 +2,7 @@
 
 A simple and responsive Pomodoro Timer web application designed to boost productivity using the Pomodoro Technique. Built with HTML, CSS, and JavaScript.
 
-open in browser :[ https://github.com/divyanshusharma4103/Pomodoro-timer](https://pomodoro-timer-nu-drab.vercel.app/)
+open in browser :https://pomodoro-timer-nu-drab.vercel.app
 ## 🌟 Features
 
 - 🕒 Three timer modes:
